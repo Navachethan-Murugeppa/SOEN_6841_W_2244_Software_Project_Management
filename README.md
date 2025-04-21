@@ -1,0 +1,1 @@
+This Repository contains all the documents that is part of the Software Project Management - SOEN6841. Assignments and the Learning journals that constitute for the weekly deliverbales as part of the course evaulation metrics.
